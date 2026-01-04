@@ -1,0 +1,13 @@
+name = "Krypton FNP"
+filename = "krypton_fnp-neoforge-1.21.1-0.2.27-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7f11646444add4674a15354ce14ede29e67aab06"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7381761
+project-id = 1269169

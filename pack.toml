@@ -1,0 +1,13 @@
+name = "SMP"
+author = "Crafter1338"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "5167e09241778ed2191673ff38d2ede839adb2705f8087fc887dead46190241c"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.217"
